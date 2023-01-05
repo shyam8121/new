@@ -1,0 +1,94 @@
+	
+No alarms
+us-east-1d	–	–	–	–	disabled	launch-wizard-4	shyam-ppk	2022/12/13 14:48 GMT+5:30
+docker
+i-0949eef7d91f14cd2	
+Stopped
+t2.micro	–	
+No alarms
+us-east-1d	–	–	–	–	disabled	launch-wizard-4	shyam-ppk	2022/12/22 10:25 GMT+5:30
+new
+i-08628bc1a7a0be260	
+Running
+t2.micro	–	
+No alarms
+us-east-1d	ec2-34-201-117-44.compute-1.amazonaws.com	34.201.117.44	–	–	disabled	launch-wizard-4	shyam-ppk	2023/01/04 14:26 GMT+5:30
+Launch instances
+Launch instance from template
+Migrate a server
+Connect
+Stop instance
+Start instance
+Reboot instance
+Hibernate instance
+Terminate instance
+Instance settings
+Attach to Auto Scaling Group
+Change termination protection
+Change stop protection
+Change shutdown behavior
+Change auto-recovery behavior
+Change instance type
+Change Nitro Enclaves
+Change credit specification
+Change resource based naming options
+Modify instance placement
+Modify Capacity Reservation settings
+Edit user data
+Allow tags in instance metadata
+Manage tags
+Networking
+Attach network interface
+Detach network interface
+Connect RDS database
+Change source/destination check
+Disassociate Elastic IP address
+Manage IP addresses
+Manage ENA Express
+Security
+Change security groups
+Get Windows password
+Modify IAM role
+Image and templates
+Create image
+Create template from instance
+Launch more like this
+Monitor and troubleshoot
+Get system log
+Get instance screenshot
+Manage detailed monitoring
+Manage CloudWatch alarms
+EC2 serial console
+Replace root volume
+Instance: i-08628bc1a7a0be260 (new)
+
+
+
+Details
+
+Security
+
+Networking
+
+Storage
+
+Status checks
+
+Monitoring
+
+Tags
+Instance summary
+Info
+Instance ID
+ i-08628bc1a7a0be260 (new)
+Public IPv4 address
+ 34.201.117.44 | open address 
+Private IPv4 addresses
+ 172.31.80.182
+IPv6 address
+–
+Instance state
+Pending
+Public IPv4 DNS
+ ec2-first f1
+
